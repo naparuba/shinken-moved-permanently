@@ -2,7 +2,7 @@
 Important: move of the of the Shinken project
 ===================================
 
-image:: look.gif
+.. image:: look.gif
 
 This is no more the official Shinken project repository. It did move to a new place new_repo__.
 __ https://github.com/shinken-solutions/shinken
